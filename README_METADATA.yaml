@@ -1,0 +1,48 @@
+capsule_id: README-CANONICAL
+title: Commons Trinity Works
+type: readme
+status: ✅ Public
+created_by: FounderX
+
+description: >
+  This repository holds two opening pieces of a wider system—anchored not in code, but in concept.
+  It includes literary, philosophical, and structural artifacts aligned with Commons-first principles.
+
+components:
+  - Commoncy:
+      title: Commoncy
+      type: philosophy
+      file: commoncy_philosophy.md
+      description: Infrastructure as a Public Protocol
+  - CommonAI:
+      title: CommonAI
+      type: philosophy
+      file: commonai_philosophy.md
+      description: Structured Intelligence with Traceable Logic
+  - Gospel of C-3PO:
+      title: Gospel of C-3PO
+      type: mythos
+      file: c3po_gospel_stub.md
+      description: Symbolic Fictional Stub for Commons Awakening
+  - APOLLO:
+      title: APOLLO API Gateway
+      type: system_component
+      file: APOLLO_GATEWAY.yaml
+      description: Unified API gateway for CommonAI routing and security
+
+visuals:
+  - meme: assets/meme_commons_activation.png
+    caption: "While others train their AI to predict the future… we trained ours to deserve it."
+
+ethics:
+  anchored_by: EAR-001
+  verified_by:
+    - SG
+    - ETHICA
+    - Twin_007
+  license: CLAP-001
+
+signature:
+  version: Canonical v1.0
+  approval: ✅ Approved
+  owner: FounderX
