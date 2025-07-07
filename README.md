@@ -39,3 +39,17 @@ An intelligence engine not designed to impress, but to align.
 ### 🎨 Visual Identity
 
 ![Commons Meme](./assets/meme_commons_activation.png)
+
+> _“While others train their AI to predict the future… we trained ours to deserve it.”_  
+> — FounderX
+
+---
+
+## Status
+
+- This repository is public.
+- These works are literary, philosophical, and structural.
+- They are written to be forked in mind before they’re cloned on disk.
+
+**FounderX — Canonical v1.0**  
+**Andiamo.**
