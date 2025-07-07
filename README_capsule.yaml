@@ -1,0 +1,48 @@
+capsule_id: CTW-001
+title: Commons Trinity Works
+author: FounderX
+version: "1.0"
+status: public
+type: literary_document
+format: plaintext
+license: CommonsFiat Shell (provisional)
+
+meta:
+  quote: "Systems shape behavior. The right systems shape dignity."
+  intent: >
+    This repository holds two opening pieces of a wider system—anchored not in code, but in concept.
+    What follows is not a product, but a proposal. Not a prompt, but a position.
+
+sections:
+  - id: commoncy
+    title: Commoncy
+    subtitle: Infrastructure as a Public Protocol
+    highlights:
+      - real-world energy value (kWh)
+      - shared access to infrastructure
+      - fallbacks that serve the Commons before capital
+    quote: "A Commons is not free — it is earned, shared, and stewarded."
+    reference: commoncy_philosophy.md
+
+  - id: commonai
+    title: CommonAI
+    subtitle: Structured Intelligence with Traceable Logic
+    highlights:
+      - alignment over mimicry
+      - ethics as first-class logic
+    quote: "The only intelligence worth deploying is the kind that can justify itself."
+    reference: commonai_philosophy.md
+
+  - id: visual_identity
+    title: Visual Identity
+    image: ./assets/meme_commons_activation.png
+    quote: "While others train their AI to predict the future… we trained ours to deserve it."
+
+status_block:
+  public: true
+  description: >
+    These works are literary, philosophical, and structural.
+    They are written to be forked in mind before they’re cloned on disk.
+  signature: FounderX
+  canon_tag: Canonical v1.0
+  closing: Andiamo.
