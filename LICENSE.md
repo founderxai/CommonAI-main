@@ -1,72 +1,44 @@
-# CommonsFiat Shell License — Ethics-Guarded Patent Variant
+# LICENSE.md
 
-This invention and its associated logic are provisionally licensed under the **CommonsFiat framework**, a governance model designed to protect intellectual property aligned with public good, regenerative use, and recursive ethics.
+## CommonsFiat Shell License (Provisional)
 
----
+This work is released under a provisional licensing model referred to as the **CommonsFiat Shell**.
 
-## ✅ Permitted Uses
-
-This license grants **non-exclusive**, **revocable**, and **ethically-bound** usage rights for:
-
-- Public-good research
-- Commons-aligned infrastructure projects
-- AI safety and symbolic reasoning studies
-- Educational and scientific institutions operating under transparency and harm reduction principles
+It is designed for projects that emphasize ethical contribution, transparency, and regenerative use. Until formalized, the license operates under the following conditions:
 
 ---
 
-## ❌ Prohibited Uses
+### 🔐 Provisional Terms
 
-You are **strictly prohibited** from using this logic or derivative works for:
+1. **Use Permitted**  
+   You may use, share, and adapt this work — but only under the conditions of ethical alignment and acknowledgment of its source.
 
-- Military or coercive applications  
-- Behavioral manipulation or surveillance  
-- Commercialization without ethics review  
-- Untraceable or obfuscated AI compound generation  
-- Pharmaceutical exploitation without fair-share redistribution
+2. **No Extractive Use**  
+   This work may not be used in systems that:
+   - Exploit labor or attention without fair return.
+   - Monetize via surveillance, speculative currency schemes, or closed infrastructural loops.
 
----
+3. **Forking Encouraged**  
+   Forks are welcome — provided they maintain a clear trace to the original ethical framework (`EAR-001`) and declare any modifications in reasoning or redistribution logic.
 
-## 🔒 Execution Conditions
+4. **Attribution Required**  
+   Cite **FounderX** and the Commons Trinity structure when derivative works are created or distributed.
 
-Usage of this logic or system is only permitted if the following conditions are met:
-
-1. **Ethics Verification**
-   - Execution must pass `Ethica()` and `SG AuditLoop()` checks
-   - Violations of `MOT-NO-HARM`, `MOT-TRUTH`, or `MOT-COMMON-OWNERSHIP` void this license
-
-2. **Symbolic Traceability**
-   - All usage must log route, logic, and derivative forms
-   - Anonymous or black-box derivatives are forbidden
-
-3. **CommonsCapsule Binding**
-   - This license is bound to the ethics capsule: `CL-ETHICA-PATENT-2025-001`
-   - Updates or forks must reference the capsule lineage
+5. **Final License Pending**  
+   A formal CommonsFiat license is being drafted in collaboration with public governance and symbolic logic auditors. Until then, this document governs intent and usage.
 
 ---
 
-## 🧬 Revocation Clause
+### ✅ Summary
 
-The author reserves the right to **revoke**, **relicense**, or **seal access** to this invention at any time if its use:
+This is not a permissive license.  
+It is a regenerative one.  
+It rewards participation, not possession.
 
-- Violates the Commons Ethics core motivators  
-- Causes direct or systemic harm  
-- Is found to be used in unaligned, secretive, or exploitative environments
-
----
-
-## ⚖️ Licensing Intent
-
-This license is not meant to restrict creativity or innovation —  
-It is designed to **anchor origin**, **preserve symbolic truth**, and **prevent misuse** of logic that can alter human, environmental, or cognitive systems.
+For full access to universal logic pathways (`EAR-001`), you must complete verified ethics integration.
 
 ---
 
-## 🖋️ Author & Ethics Binding
-
-```yaml
-Author: Bart Hermans (FounderX)
-Capsule ID: CL-ETHICA-PATENT-2025-001
-Status: Ethics Verified
-Vaulted: ✅
-Date: 2025-07-07
+**CommonsFiat Shell v0.1**  
+Authored by **FounderX**  
+Governs all works in this repository unless otherwise stated.
