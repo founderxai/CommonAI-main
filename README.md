@@ -1,55 +1,41 @@
-# 🤖 CommonAI
+# README.md
 
-**Decentralized AI Logic & Agent System**  
-Part of the **Commons Infrastructure Stack**  
-Ethics-Verified • Recursive • Hostable • Trust-Layered
+## Commons Trinity Works  
+*by FounderX*
 
----
+> _“Systems shape behavior. The right systems shape dignity.”_
 
-## 📌 Overview
-
-**CommonAI** is the symbolic and logic-driven AI engine at the heart of the Commons ecosystem.  
-It hosts autonomous agents, executes recursive logic, and integrates directly with real-world services via Commons Gateways, compute, and trusted node systems.
-
-Unlike typical AI platforms, CommonAI is designed to:
-
-- Prioritize **ethics over efficiency**
-- Support **real-world service automation**
-- Operate in **decentralized environments**
-- Integrate symbolic **reasoning and memory**
+This repository holds two opening pieces of a wider system—anchored not in code, but in concept.  
+What follows is not a product, but a proposal.  
+Not a prompt, but a position.
 
 ---
 
-## 🧠 Core Features
+### 🧱 Commoncy  
+**Infrastructure as a Public Protocol**
 
-- 🧬 **Twin AI Agents**  
-  Hostable symbolic agents with memory, ethics, and task autonomy
+A regenerative economy grounded in:
+- real-world energy value (kWh),
+- shared access to infrastructure,
+- fallbacks that serve the Commons before capital.
 
-- 🔄 **Recursive Logic Execution**  
-  Powered by Hybrid Function Theory (HFT) and C³/C⁴ reasoning
+> _"A Commons is not free — it is earned, shared, and stewarded."_
 
-- 🔒 **Ethics-Gated Runtime**  
-  Every execution wrapped in a trust loop (`Ethica()` + Safeguard)
-
-- 🛠️ **Modular Agent Templates**  
-  Healthcare, vending, education, logistics, and more
-
-- 🌐 **Commons-Aware Integration**  
-  Works with Commoncy Gateways, Capsules, and CommonsToken logic
+→ [`commoncy_philosophy.md`](./commoncy_philosophy.md)
 
 ---
 
-## 🧰 Quick Start
+### 🧠 CommonAI  
+**Structured Intelligence with Traceable Logic**
 
-### Requirements
+An intelligence engine not designed to impress, but to align.
 
-- Node.js or Python 3.10+
-- Access to a Commons Gateway (or run in simulation)
-- Ethics Mode: Active or Passive
+> _“The only intelligence worth deploying is the kind that can justify itself.”_
 
-### Install
+→ [`commonai_philosophy.md`](./commonai_philosophy.md)
 
-```bash
-git clone https://github.com/founderx-broadcast/CommonAI.git
-cd CommonAI
-npm install    # or use pip for Python-based agents
+---
+
+### 🎨 Visual Identity
+
+![Commons Meme](./assets/meme_commons_activation.png)
