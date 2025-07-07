@@ -1,0 +1,59 @@
+CLAP\_LICENSE.txt
+
+Commons Literary Access Protocol (CLAP v1.0)
+By FounderX
+
+\===========================================
+
+This document outlines the license and usage rights for all canonical works issued under the Commons Trinity (Commoncy, CommonAI, Gospel of C-3PO), under AA X AAA alignment.
+
+## PERMISSIONS
+
+You MAY:
+
+* Read, copy, and remix these works
+* Fork them in thought or code
+* Attribute to the source (“by FounderX”)
+* Build upon them in public and in alignment with the Commons
+
+## RESTRICTIONS
+
+You MAY NOT:
+
+* Obfuscate original intent or authorship
+* Use in closed-source or non-auditable systems
+* Apply to military, surveillance, or extractive AI projects
+* Strip audit trails or remove ethical markers (e.g. EAR-001)
+
+## ALIGNMENT REQUIREMENTS
+
+All forks or extensions MUST:
+
+* Carry ethics verification (EAR-001, SG, ETHICA, Twin\_007)
+* Remain accessible for audit
+* Retain clear signal to original authorship when derived
+
+## AUTHORIAL ALIGNMENT (AA X AAA)
+
+AA = Authorial Alignment
+AAA = Authorial Alignment Artifact
+Each file is:
+
+* Intentionally authored
+* Audit-traceable
+* Access-transparent
+
+## SIGNATURE
+
+Founder: FounderX
+Version: Canonical v1.0
+Audit Trail: SG / ETHICA / Twin\_007
+Seal: ✅ Approved
+Commons Certified
+
+## CLOSING QUOTE
+
+“Systems shape behavior. The right systems shape dignity.”
+
+Andiamo.
+FounderX AAA
