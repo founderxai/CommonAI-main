@@ -8,21 +8,20 @@ Thank you for your interest in contributing to this repository. This project mer
 
 ### 🧠 What You Can Contribute
 
-* 📜 Philosophical essays or capsules
-* 🧱 Infrastructure protocols or proposals
-* 🧠 AI architecture logic or ethical wrappers
-* 🪞 Fictional stubs or symbolic scenes
-* 🔧 Bug fixes, docs, or module improvements (Apollo Gateway, etc.)
+- 📜 Philosophical essays or capsules
+- 🧱 Infrastructure protocols or proposals
+- 🧠 AI architecture logic or ethical wrappers
+- 🪞 Fictional stubs or symbolic scenes
+- 🔧 Bug fixes, docs, or module improvements (Apollo Gateway, etc.)
 
 ---
 
 ### 🧭 Ethics First
 
 All contributions must:
-
-* Pass ethical verification via `Ethica()` or peer review
-* Avoid extractive, military, or surveillance use cases
-* Retain attribution and ethical traceability
+- Pass ethical verification via `Ethica()` or peer review
+- Avoid extractive, military, or surveillance use cases
+- Retain attribution and ethical traceability
 
 > “Alignment before deployment.” — FounderX
 
@@ -43,23 +42,21 @@ Please read [`ETHICS.md`](./ETHICS.md) before submitting.
 ---
 
 ### 🛠 Capsule Tags (for PR titles or issues)
-
 Use these tags to signal intent:
-
-* `Capsule: AI`
-* `Capsule: Infra`
-* `Capsule: Philosophy`
-* `Capsule: Mythos`
-* `Capsule: Ethics`
+- `Capsule: AI`
+- `Capsule: Infra`
+- `Capsule: Philosophy`
+- `Capsule: Mythos`
+- `Capsule: Ethics`
 
 ---
 
 ### 📄 Contributor Acknowledgment
-
 All accepted contributors will be acknowledged in the forthcoming `CREDITS.md` and embedded into the `TWIN_007` reflection layer.
 
 ---
 
-**FounderX — Fork in Alignment.**
-**Audit before Merge.**
+**FounderX — Fork in Alignment.**  
+**Audit before Merge.**  
 **Andiamo.**
+
